@@ -5,7 +5,7 @@ class Main {
     Scanner sc = new Scanner(System.in);  // Create a Scanner object
     System.out.println("Enter username");
 
-    String userName = sc.nextLine();  // Read user input
+    String userName = sc.nextLine();  
     System.out.println("Username is: " + userName);  
 
     sc.close();
