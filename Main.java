@@ -6,7 +6,7 @@ class Main {
     System.out.println("Enter username");
 
     String userName = sc.nextLine();  // Read user input
-    System.out.println("Username is: " + userName);  // Output user input
+    System.out.println("Username is: " + userName);  
 
     sc.close();
   }
